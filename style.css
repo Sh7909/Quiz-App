@@ -1,0 +1,75 @@
+*{
+    font-family: sans-serif;
+}
+#maincontainer,#container,#ProbQues,#AgeQues,#ProfitQues{
+    border:2px solid lightgrey;
+    width:40rem;
+    border-radius:0.5rem;
+    text-align: center;
+}
+#text{
+    color:rgb(31, 168, 231);
+    
+}
+#name{
+   
+    font-weight: bold;
+}
+#effect{
+    width:20rem;
+    border-radius:0.3rem;
+    border-color:rgb(241, 239, 239);
+    height:1.2rem;
+    font-size:0.7rem;
+}
+#Enter{
+    background-color:rgb(31, 168, 231);
+    color:white;
+    border-radius: 0.3rem;
+    width:5rem;
+    height:2rem;
+    margin:0.5rem;
+    border-color:rgb(31, 168, 231);
+}
+#below-text{
+    color: grey;
+    font-size: 0.9rem;
+}
+hr{
+    width:27rem;
+    text-align: left;
+    color:lightgray;
+}
+#select-category{
+    color:rgb(31, 168, 231);
+    
+    
+}
+#buttons>button{
+    background-color:rgb(235, 249, 255);
+    border-color:rgb(31, 168, 231);
+    color:gray;
+    width:15rem;
+    height:3rem;
+    margin:1rem;
+    border-radius:0.5rem;
+    font-size:1rem;
+}
+#showscore{
+    text-align:center; 
+    font-size:1.5rem; 
+    font-weight:bold; 
+    background-color:white;
+    text-align:center;
+    border:2px solid rgb(31, 168, 231); 
+    color:rgb(31, 168, 231);
+    border-radius:10rem;
+    width:4rem; 
+    height:3.2rem;
+    margin-top:-32rem;
+    margin-left:18rem;
+    padding:0.4rem;
+    position: sticky;
+    display:none;
+}
+
